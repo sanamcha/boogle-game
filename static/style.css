@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(245, 239, 231);
+}
+#boggle-game{
+    text-align: center;
+}
+h1{
+    color:blue;
+    font-size: 3rem;
+    text-align: center;
+}
+
+.board {
+    border: 2px solid black;
+    font-size: 150%;
+    width:40%;
+    height:auto;
+    
+}
+
+.board td {
+    height: 2rem;
+    width: 2 rem;
+    text-align: center;
+}
+
+.message.ok {
+    background-color: darkviolet;
+    font-size: 1.5em;
+}
+
+.message.err{
+    background-color: red;
+    font-size: 1.5em;
+}
+
+div  {
+    text-align: center;
+  
+}
+
+    
